@@ -199,7 +199,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // Método utilizado para simular un proceso de carga.
-    // En la práctica, este método será sustituido por el servicio de recuperación de información o
+    // En la práctica, este método será sustituido por el servicio de recuperación de información
     // o cualquier llamada que pueda desembocar en un proceso de espera para el usuario.
     private void showAndDismissProgressDialog(){
         final Handler handler = new Handler();
